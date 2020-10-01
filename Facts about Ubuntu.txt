@@ -1,0 +1,9 @@
+Interesting Facts about Ubuntu:
+
+1. The Chinese version of Ubuntu is used for running the world's fastest supercomputer.
+
+2. For the bulk of Web servers, Ubuntu is the most used Operating systems.
+
+3. The stripped version of Ubuntu is used in Google's Self-driving car.
+
+4. Many of the big enterprises including Uber and Lyft use Ubuntu.
