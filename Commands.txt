@@ -1,10 +1,16 @@
 Here is a list of basic Linux commands:
 
 1. pwd command
-Use the pwd command to find out the path of the current working directory (folder) you’re in. The command will return an absolute (full) path, which is basically a path of all the directories that starts with a forward slash (/). An example of an absolute path is /home/username.
+
+Use the pwd command to find out the path of the current working directory (folder) you’re in. The command will return an absolute (full) path, which is basically a path of all
+
+the directories that starts with a forward slash (/). An example of an absolute path is /home/username.
 
 2. cd command
-To navigate through the Linux files and directories, use the cd command. It requires either the full path or the name of the directory, depending on the current working directory that you’re in.
+
+To navigate through the Linux files and directories, use the cd command. It requires either the full path or the name of the directory, depending on the current working
+
+directory that you’re in.
 
 Let’s say you’re in /home/username/Documents and you want to go to Photos, a subdirectory of Documents. To do so, simply type the following command: cd Photos.
 
